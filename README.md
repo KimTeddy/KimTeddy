@@ -6,9 +6,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
   <br>
-  <a target="_blank" href="https://www.home-assistant.io/"><img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/></a>
+  <a href="https://www.home-assistant.io/" target="_blank"><img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -24,9 +26,20 @@
   <img src="https://img.shields.io/badge/MusesScore-1A70B8?style=flat&logo=musescore&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white"/>
   
-  
 </div>
-
+<br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://blog.naver.com/teddy_02">
+		<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=naver&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/teddy_electronics/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+	</a>
+	<br>
+</div>
 <!--### Hi there 👋-->
 
 <!--
