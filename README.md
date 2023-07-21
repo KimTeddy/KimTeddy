@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
   <br>
   <a href="https://www.home-assistant.io/" target="_blank"><img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white"/>
@@ -16,6 +15,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows VBScript-0078D6?style=flat&logo=windows&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
