@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
+	<a href="https://github.com/KimTeddy/VBScript/tree/main">
   <img src="https://img.shields.io/badge/Windows VBScript-0078D6?style=flat&logo=windows&logoColor=white"/>
+	</a>
   <br>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
