@@ -1,4 +1,15 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=TeddyElectronics&fontSize=90" />
+
+
+
+
+
+
+
+
+
+
+<!--### Hi there 👋-->
 
 <!--
 **KimTeddy/KimTeddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
