@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/>
+  <a target="_blank" href="https://www.home-assistant.io/"><img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
   <br>
@@ -19,7 +19,10 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat&logo=dassaultsystemes&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MusesScore-1A70B8?style=flat&logo=musescore&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white"/>
   
   
 </div>
