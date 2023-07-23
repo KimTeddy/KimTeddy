@@ -52,7 +52,7 @@
 		<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 	</a>
 	<a href="https://musescore.org/ko">
-		<img src="https://img.shields.io/badge/MusesScore-1A70B8?style=flat&logo=musescore&logoColor=white"/>
+		<img src="https://img.shields.io/badge/MuseScore-1A70B8?style=flat&logo=musescore&logoColor=white"/>
 	</a>
 	<a href="https://www.minecraft.net/ko-kr">
 		<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white"/>
