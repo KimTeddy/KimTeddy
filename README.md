@@ -8,10 +8,21 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 	<a href="https://github.com/KimTeddy/OpenGL" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
 	</a>
-	<br>
+	<a href="https://github.com/KimTeddy/OpenCV" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+	</a>
+<br>
+	<a href="" target="_blank">
+		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+	</a>
+	<a href="" target="_blank">
+		<img src="https://img.shields.io/badge/Verilog-E01F27?style=flat&logo=xilinx&logoColor=white"/>
+	</a>
+<br>
 	<a href="https://www.home-assistant.io/" target="_blank">
 		<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/>
 	</a>
@@ -38,16 +49,20 @@
 	<a href="https://visualstudio.microsoft.com/ko/#vs-section">
 		<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
 	</a>
+	<a href="[https://visualstudio.microsoft.com/ko/#vs-section](https://code.visualstudio.com/)">
+		<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+	</a>
 	<a href="https://www.arduino.cc/en/software">
 		<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
 	</a>
+<br>
 	<a href="https://www.kicad.org/">
 		<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
 	</a>
 	<a href="https://www.solidworks.com/ko">
 		<img src="https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat&logo=dassaultsystemes&logoColor=white"/>
 	</a>
-	<br>
+<br>
 	<a href="https://www.blender.org/">
 		<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 	</a>
