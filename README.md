@@ -4,6 +4,7 @@
 
 
 <!--
+https://readme-typing-svg.demolab.com/demo/
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&repeat=false&random=true&width=435&height=120&lines=My+major+is+electronic+engineering.;I+am+an+embedded+developer.;Home+IoT+is+my+hobby.;I+want+to+be+an+embedded+engineer." alt="Typing SVG" /></a>
  Line 1
 My major is electronic engineering.
