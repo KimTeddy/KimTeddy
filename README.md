@@ -114,7 +114,10 @@ I want to be an embedded engineer.-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTeddy&layout=compact)](https://github.com/KimTeddy/github-readme-stats)
 </div>
 
+<div align=center>
 
+![Teddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTeddy&show_icons=true&theme=holi)
+</div>
 <!--### Hi there 👋-->
 
 <!--
