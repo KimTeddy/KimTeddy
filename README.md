@@ -116,7 +116,7 @@ I want to be an embedded engineer.-->
 
 <div align=center>
 
-![Teddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTeddy&show_icons=true&theme=holi)
+![Teddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTeddy&show_icons=true&theme=holi&hide=prs,issues&count_private=true&hide_rank=true)
 </div>
 <!--### Hi there 👋-->
 
