@@ -15,7 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_LANGUAGES: 12
+          SETTING_JSON: ./settings/profile-3d-contrib.json
       - name: Archive results
         uses: actions/upload-artifact@v3
         with:
