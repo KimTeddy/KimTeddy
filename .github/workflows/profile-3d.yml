@@ -11,16 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@main
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_LANGUAGES: 12
-          IGNORE_LANGUAGES: "Visual Basic.NET,Visual Basic 6.0,VBA,ASP.NET"
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git diff --staged --exit-code || (git commit -m "generated" && git push)
-          
+          git commit -m "generated"
+          git push
