@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&random=true&width=435&lines=My+major+is+electronic+engineering.;I+am+an+embedded+developer.;Home+IoT+is+my+hobby.;I+want+to+be+an+embedded+engineer." alt="Typing SVG" /></a><br>
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="svg" width="50%" height="">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="svg" width="50%" height="">
 </div>
 
 <div align=center>
