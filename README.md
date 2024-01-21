@@ -1,3 +1,6 @@
+![svg](./profile-3d-contrib/profile-green-animate.svg)
+
+
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05A1FC,100:a82da8&height=200&section=header&text=TeddyElectronics&fontColor=FFFFFF&fontSize=60&animation=scaleIn&fontAlignY=38&desc=KimTeddy&descAlignY=51&descAlign=72&stroke=000000&strokeWidth=2" />
 </div>
@@ -111,8 +114,11 @@ I want to be an embedded engineer.-->
 <br>
 <div align=center>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 </div>
+
+
 
 <!--
 <div align=center>
