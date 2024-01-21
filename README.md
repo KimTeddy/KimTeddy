@@ -1,24 +1,9 @@
-![svg](./profile-3d-contrib/profile-green-animate.svg)
-
-
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05A1FC,100:a82da8&height=200&section=header&text=TeddyElectronics&fontColor=FFFFFF&fontSize=60&animation=scaleIn&fontAlignY=38&desc=KimTeddy&descAlignY=51&descAlign=72&stroke=000000&strokeWidth=2" />
 </div>
-
-
-<!--
-https://readme-typing-svg.demolab.com/demo/
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&repeat=false&random=true&width=435&height=120&lines=My+major+is+electronic+engineering.;I+am+an+embedded+developer.;Home+IoT+is+my+hobby.;I+want+to+be+an+embedded+engineer." alt="Typing SVG" /></a>
- Line 1
-My major is electronic engineering.
-Line 2
-I am an embedded developer.
-Line 3
-Home IoT is my hobby.
-Line 4
-I want to be an embedded engineer.-->
 <div align=center>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&random=true&width=435&lines=My+major+is+electronic+engineering.;I+am+an+embedded+developer.;Home+IoT+is+my+hobby.;I+want+to+be+an+embedded+engineer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&random=true&width=435&lines=My+major+is+electronic+engineering.;I+am+an+embedded+developer.;Home+IoT+is+my+hobby.;I+want+to+be+an+embedded+engineer." alt="Typing SVG" /></a><br>
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="svg" width="50%" height="">
 </div>
 
 <div align=center>
@@ -118,7 +103,17 @@ I want to be an embedded engineer.-->
 
 </div>
 
-
+<!--
+https://readme-typing-svg.demolab.com/demo/
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&repeat=false&random=true&width=435&height=120&lines=My+major+is+electronic+engineering.;I+am+an+embedded+developer.;Home+IoT+is+my+hobby.;I+want+to+be+an+embedded+engineer." alt="Typing SVG" /></a>
+ Line 1
+My major is electronic engineering.
+Line 2
+I am an embedded developer.
+Line 3
+Home IoT is my hobby.
+Line 4
+I want to be an embedded engineer.-->
 
 <!--
 <div align=center>
