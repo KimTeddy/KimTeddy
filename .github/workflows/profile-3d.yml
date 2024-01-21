@@ -15,6 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          MAX_LANGUAGES: 12
       - name: Archive results
         uses: actions/upload-artifact@v3
         with:
