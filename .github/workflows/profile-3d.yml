@@ -15,10 +15,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config --global user.email "kyc20126@gmail.com"
-          git config --global user.name "TeddyElectronics"
-          git add -A .
-          git commit -m "generated"
-          git push
+      - name: Archive results
+        uses: actions/upload-artifact@v2
+        with:
+          name: profile-3d-contrib
+          path: profile-3d-contrib/
+
+  download:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Artifacts
+        uses: actions/download-artifact@v2
+        with:
+          name: profile-3d-contrib
+          path: profile-3d-contrib
