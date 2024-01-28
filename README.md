@@ -26,7 +26,7 @@ Language<br>
 	<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
 		<img src="https://img.shields.io/badge/Verilog-E01F27?style=flat&logo=v&logoColor=white"/>
 	</a>
-	<br>
+<br>
 Library<br>
 	<a href="https://github.com/KimTeddy/OpenGL" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
@@ -34,13 +34,13 @@ Library<br>
 	<a href="https://github.com/KimTeddy/OpenCV" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 	</a>
-OS<br>
 <br>
+OS<br>
 	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 	</a>
-For Home IoT<br>
 <br>
+HomeIoT<br>
 	<a href="https://www.home-assistant.io/" target="_blank">
 		<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/>
 	</a>
@@ -81,7 +81,7 @@ IDE<br>
 		<img src="https://img.shields.io/badge/Vivado-D5D66A?style=flat&logo=amd&logoColor=white"/>
 	</a>	
 <br>
-CAD<br>
+CAD(PCB, 3D)<br>
 	<a href="https://www.kicad.org/">
 		<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
 	</a>
