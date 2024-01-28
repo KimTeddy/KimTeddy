@@ -87,7 +87,7 @@ CAD<br>
 		<img src="https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat&logo=dassaultsystemes&logoColor=white"/>
 	</a>
 <br>
-VisualMachine<br>
+VirtualMachine<br>
 	<a href="https://www.virtualbox.org/">
 		<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
 	</a>
