@@ -11,8 +11,23 @@
 </div>
 
 <div align="center">
+Language<br>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/GitHub-Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
+	<a href="https://github.com/KimTeddy/VBScript/tree/main">
+		<img src="https://img.shields.io/badge/GitHub-Windows VBScript-0078D6?style=flat&logo=windows&logoColor=white"/>
+	</a>
+	<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
+		<img src="https://img.shields.io/badge/Verilog-E01F27?style=flat&logo=v&logoColor=white"/>
+	</a>
+	<br>
+Library<br>
 	<a href="https://github.com/KimTeddy/OpenGL" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
 	</a>
@@ -22,9 +37,6 @@
 <br>
 	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
-	</a>
-	<a href="" target="_blank">
-		<img src="https://img.shields.io/badge/Verilog-E01F27?style=flat&logo=xilinx&logoColor=white"/>
 	</a>
 <br>
 	<a href="https://www.home-assistant.io/" target="_blank">
@@ -37,15 +49,7 @@
 		<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
 	</a>
 	<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-	<br>
-		<img src="https://img.shields.io/badge/GitHub-Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
-	<a href="https://github.com/KimTeddy/VBScript/tree/main">
-		<img src="https://img.shields.io/badge/GitHub-Windows VBScript-0078D6?style=flat&logo=windows&logoColor=white"/>
-	</a>
+
 </div>
 <br>
 <div align=center>
@@ -71,12 +75,21 @@ IDE<br>
 		<img src="https://img.shields.io/badge/Cube MX-3BB5E5?style=flat&logo=stmicroelectronics&logoColor=white"/>
 	</a>
 <br>
+	<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
+		<img src="https://img.shields.io/badge/Vivado-D5D66A?style=flat&logo=amd&logoColor=white"/>
+	</a>	
+<br>
 CAD<br>
 	<a href="https://www.kicad.org/">
 		<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
 	</a>
 	<a href="https://www.solidworks.com/ko">
 		<img src="https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat&logo=dassaultsystemes&logoColor=white"/>
+	</a>
+<br>
+VisualMachine<br>
+	<a href="https://www.virtualbox.org/">
+		<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
 	</a>
 <br>
 3D Modeling, Animation<br>
