@@ -7,27 +7,28 @@
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h2/>📚 Tech Stack 📚
 </div>
-
 <div align="center">
-Language<br>
+<h3/>Language
+<h5/>Basic
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-	<br>
+<h5/>Web
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-	<br>
+<h5/>Windows
 	<img src="https://img.shields.io/badge/GitHub-Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
 	<a href="https://github.com/KimTeddy/VBScript/tree/main">
 		<img src="https://img.shields.io/badge/GitHub-Windows VBScript-0078D6?style=flat&logo=windows&logoColor=white"/>
 	</a>
+<h5/>Digital Logic Circuit
 	<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
 		<img src="https://img.shields.io/badge/Verilog-E01F27?style=flat&logo=v&logoColor=white"/>
 	</a>
 <br>
-Library<br>
+<h3/>Library<br>
 	<a href="https://github.com/KimTeddy/OpenGL" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
 	</a>
@@ -35,12 +36,12 @@ Library<br>
 		<img src="https://img.shields.io/badge/GitHub-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 	</a>
 <br>
-OS<br>
+<h3/>OS<br>
 	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 	</a>
 <br>
-HomeIoT<br>
+<h3/>HomeIoT<br>
 	<a href="https://www.home-assistant.io/" target="_blank">
 		<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/>
 	</a>
@@ -55,8 +56,8 @@ HomeIoT<br>
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
-IDE<br>
+	<h2/>🛠 Tools 🛠
+<h3/>IDE<br>
 	<a href="https://visualstudio.microsoft.com/ko/#vs-section">
 		<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
 	</a>
@@ -81,7 +82,7 @@ IDE<br>
 		<img src="https://img.shields.io/badge/Vivado-D5D66A?style=flat&logo=amd&logoColor=white"/>
 	</a>	
 <br>
-CAD(PCB, 3D)<br>
+<h3/>CAD(PCB, 3D)<br>
 	<a href="https://www.kicad.org/">
 		<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
 	</a>
@@ -89,17 +90,17 @@ CAD(PCB, 3D)<br>
 		<img src="https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat&logo=dassaultsystemes&logoColor=white"/>
 	</a>
 <br>
-VirtualMachine<br>
+<h3/>VirtualMachine<br>
 	<a href="https://www.virtualbox.org/">
 		<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
 	</a>
 <br>
-3D Modeling/Animation/Rendering<br>
+<h3/>3D Modeling/Animation/Rendering<br>
 	<a href="https://www.blender.org/">
 		<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 	</a>
 <br>
-Music<br>
+<h3/>Music<br>
 	<a href="https://musescore.org/ko">
 		<img src="https://img.shields.io/badge/MuseScore-1A70B8?style=flat&logo=musescore&logoColor=white"/>
 	</a>
@@ -107,14 +108,14 @@ Music<br>
 		<img src="https://img.shields.io/badge/Studio One 5-0083FF?style=flat&logo=&logoColor=white"/>
 	</a>
 <br>
-Others(3D Modeling, Digital Logic Circuit)<br>
+<h3/>Others(3D Modeling, Digital Logic Circuit)<br>
 	<a href="https://www.minecraft.net/ko-kr">
 		<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white"/>
 	</a>
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h2/>🎨 SNS & Portfolio 🎨
 </div>
 <div align=center>
 
