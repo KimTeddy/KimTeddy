@@ -34,10 +34,12 @@ Library<br>
 	<a href="https://github.com/KimTeddy/OpenCV" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 	</a>
+OS<br>
 <br>
 	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 	</a>
+For Home IoT<br>
 <br>
 	<a href="https://www.home-assistant.io/" target="_blank">
 		<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/>
