@@ -19,21 +19,23 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <h5/>Windows
-	<img src="https://img.shields.io/badge/GitHub-Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
+	<a href="https://github.com/KimTeddy/Batchfile">
+		<img src="https://img.shields.io/badge/Repository-Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
+	</a>
 	<a href="https://github.com/KimTeddy/VBScript/tree/main">
-		<img src="https://img.shields.io/badge/GitHub-Windows VBScript-0078D6?style=flat&logo=windows&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Repository-Windows VBScript-0078D6?style=flat&logo=windows&logoColor=white"/>
 	</a>
 <h5/>Digital Logic Circuit
-	<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
-		<img src="https://img.shields.io/badge/Verilog-E01F27?style=flat&logo=v&logoColor=white"/>
+	<a href="https://github.com/KimTeddy/DigitalSystem" target="_blank">
+		<img src="https://img.shields.io/badge/Repository-Verilog-E01F27?style=flat&logo=v&logoColor=white"/>
 	</a>
 <br>
 <h3/>Library<br>
 	<a href="https://github.com/KimTeddy/OpenGL" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Repository-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
 	</a>
 	<a href="https://github.com/KimTeddy/OpenCV" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Repository-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 	</a>
 <br>
 <h3/>OS<br>
@@ -41,7 +43,7 @@
 		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 	</a>
 <br>
-<h3/>HomeIoT<br>
+<h3/>Home IoT<br>
 	<a href="https://www.home-assistant.io/" target="_blank">
 		<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white"/>
 	</a>
