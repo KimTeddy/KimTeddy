@@ -94,7 +94,7 @@ VirtualMachine<br>
 		<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
 	</a>
 <br>
-3D Modeling, Animation<br>
+3D Modeling/Animation/Rendering<br>
 	<a href="https://www.blender.org/">
 		<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 	</a>
@@ -107,7 +107,7 @@ Music<br>
 		<img src="https://img.shields.io/badge/Studio One 5-0083FF?style=flat&logo=&logoColor=white"/>
 	</a>
 <br>
-Others<br>
+Others(3D Modeling, Digital Logic Circuit)<br>
 	<a href="https://www.minecraft.net/ko-kr">
 		<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white"/>
 	</a>
