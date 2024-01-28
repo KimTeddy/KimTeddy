@@ -50,6 +50,7 @@
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
+IDE<br>
 	<a href="https://visualstudio.microsoft.com/ko/#vs-section">
 		<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
 	</a>
@@ -60,6 +61,17 @@
 		<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
 	</a>
 <br>
+	<a href="https://www.iar.com/products/architectures/arm/iar-embedded-workbench-for-arm/">
+		<img src="https://img.shields.io/badge/IAR-000000?style=flat&logo=arm&logoColor=white"/>
+	</a>
+	<a href="https://www.st.com/en/development-tools/stm32cubeide.html">
+		<img src="https://img.shields.io/badge/Cube IDE-3BB5E5?style=flat&logo=stmicroelectronics&logoColor=white"/>
+	</a>
+	<a href="https://www.st.com/en/development-tools/stm32cubemx.html">
+		<img src="https://img.shields.io/badge/Cube MX-3BB5E5?style=flat&logo=stmicroelectronics&logoColor=white"/>
+	</a>
+<br>
+CAD<br>
 	<a href="https://www.kicad.org/">
 		<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
 	</a>
@@ -67,12 +79,20 @@
 		<img src="https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat&logo=dassaultsystemes&logoColor=white"/>
 	</a>
 <br>
+3D Modeling, Animation<br>
 	<a href="https://www.blender.org/">
 		<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 	</a>
+<br>
+Music<br>
 	<a href="https://musescore.org/ko">
 		<img src="https://img.shields.io/badge/MuseScore-1A70B8?style=flat&logo=musescore&logoColor=white"/>
 	</a>
+	<a href="https://www.presonus.com/en/start">
+		<img src="https://img.shields.io/badge/Studio One 5-0083FF?style=flat&logo=&logoColor=white"/>
+	</a>
+<br>
+Others<br>
 	<a href="https://www.minecraft.net/ko-kr">
 		<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white"/>
 	</a>
