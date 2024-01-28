@@ -53,6 +53,8 @@
 	<a href="https://github.com/KimTeddy/DigitalSystem" target="_blank">
 		<img src="https://img.shields.io/badge/Repository-Verilog-E01F27?style=flat&logo=v&logoColor=white"/>
 	</a>
+<h5/>Others
+	<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
 <br>
 <h3/>Library<br>
 	<a href="https://github.com/KimTeddy/OpenGL" target="_blank">
@@ -80,7 +82,13 @@
 		<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
 	</a>
 	<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/Google Assistant SDK-4285F4?style=flat&logo=googleassistant&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Google Home-4285F4?style=flat&logo=googlehome&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat&logo=googleassistant&logoColor=white"/>
+<h6/>Not Using
+	<img src="https://img.shields.io/badge/IFTTT-000000?style=flat&logo=ifttt&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Adafruit IO-000000?style=flat&logo=adafruit&logoColor=white"/>
 </div>
 <br>
 <div align=center>
