@@ -46,8 +46,9 @@
 		<img src="https://img.shields.io/badge/Repository-Windows batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
 	</a>
 	<a href="https://github.com/KimTeddy/VBScript/tree/main">
-		<img src="https://img.shields.io/badge/Repository-Windows VBScript-0078D6?style=flat&logo=windows&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Repository-Windows VBScript-0078D6?style=flat&logo=windows10&logoColor=white"/>
 	</a>
+	<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
 <h5/>Digital Logic Circuit
 	<a href="https://github.com/KimTeddy/DigitalSystem" target="_blank">
 		<img src="https://img.shields.io/badge/Repository-Verilog-E01F27?style=flat&logo=v&logoColor=white"/>
@@ -65,6 +66,8 @@
 	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 	</a>
+	(<img src="https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>)
 <br>
 <h3/>Home IoT<br>
 	<a href="https://www.home-assistant.io/" target="_blank">
@@ -77,7 +80,7 @@
 		<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
 	</a>
 	<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
-
+	<img src="https://img.shields.io/badge/Google Home-4285F4?style=flat&logo=googlehome&logoColor=white"/>
 </div>
 <br>
 <div align=center>
@@ -120,12 +123,22 @@
 		<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
 	</a>
 <br>
-<h3/>3D Modeling/Animation/Rendering<br>
+<h3/>3D<br>
+<h5/>Modeling/Animation/Rendering
 	<a href="https://www.blender.org/">
 		<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 	</a>
+<h5/>Slicing
+	<a href="https://ultimaker.com/software/ultimaker-cura/">
+		<img src="https://img.shields.io/badge/Cura-196EF0?style=flat&logo=c&logoColor=white"/>
+	</a>
 <br>
-<h3/>Music<br>
+<h3/>Others<br>
+<h5/>3D Modeling, Digital Logic Circuit
+	<a href="https://www.minecraft.net/ko-kr">
+		<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white"/>
+	</a>
+<h5/>Music
 	<a href="https://musescore.org/ko">
 		<img src="https://img.shields.io/badge/MuseScore-1A70B8?style=flat&logo=musescore&logoColor=white"/>
 	</a>
@@ -133,12 +146,11 @@
 		<img src="https://img.shields.io/badge/Studio One 5-0083FF?style=flat&logo=&logoColor=white"/>
 	</a>
 	<a href="https://apps.apple.com/kr/app/garageband/id408709785">
-		<img src="https://img.shields.io/badge/GarageBand-F2653A?style=flat&logo=&logoColor=white"/>
+		<img src="https://img.shields.io/badge/GarageBand-F2653A?style=flat&logo=itunes&logoColor=white"/>
 	</a>
-<br>
-<h3/>Others(3D Modeling, Digital Logic Circuit)<br>
+<h5/>Video Edit
 	<a href="https://www.minecraft.net/ko-kr">
-		<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white"/>
+		<img src="https://img.shields.io/badge/DavinciResolve-233A51?style=flat&logo=davinciresolve&logoColor=white"/>
 	</a>
 </div>
 <br>
