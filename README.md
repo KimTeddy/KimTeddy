@@ -86,7 +86,7 @@
 	<img src="https://img.shields.io/badge/Google Assistant SDK-4285F4?style=flat&logo=googleassistant&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Google Home-4285F4?style=flat&logo=googlehome&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat&logo=googleassistant&logoColor=white"/>
-<h6/>Not Using
+<h6/>Not Using Now
 	<img src="https://img.shields.io/badge/IFTTT-000000?style=flat&logo=ifttt&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Adafruit IO-000000?style=flat&logo=adafruit&logoColor=white"/>
 </div>
