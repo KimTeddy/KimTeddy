@@ -28,7 +28,8 @@
 	</a>
 	<br>
 </div>
-
+	
+***
 <div align=center>
 	<h2/>📚 Tech Stack 📚
 </div>
@@ -89,8 +90,14 @@
 <h6/>Not Using Now
 	<img src="https://img.shields.io/badge/IFTTT-000000?style=flat&logo=ifttt&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Adafruit IO-000000?style=flat&logo=adafruit&logoColor=white"/>
+
+<h3/>📱 Hardwares 📱<br>
+	<img src="https://img.shields.io/badge/Arm-0091BD?style=flat&logo=arm&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
 </div>
-<br>
+	
+***
 <div align=center>
 	<h2/>🛠 Tools 🛠
 <h3/>IDE<br>
