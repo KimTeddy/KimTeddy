@@ -1,9 +1,32 @@
+
+
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05A1FC,100:a82da8&height=200&section=header&text=TeddyElectronics&fontColor=FFFFFF&fontSize=60&animation=scaleIn&fontAlignY=38&desc=KimTeddy&descAlignY=51&descAlign=72&stroke=000000&strokeWidth=2" />
 </div>
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&random=true&width=435&lines=My+major+is+electronic+engineering.;I+am+an+embedded+developer.;Home+IoT+is+my+hobby.;I+want+to+be+an+embedded+engineer." alt="Typing SVG" /></a><br>
 <img src="./profile-3d-contrib/profile-custom-rainbow.svg" alt="svg" width="50%" height="">
+</div>
+
+<div align=center>
+	<h2/>🎨 SNS & Portfolio 🎨
+</div>
+<div align=center>
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/@TeddyElectronics)](https://www.youtube.com/@TeddyElectronics)
+	<a href="https://blog.naver.com/teddy_02">
+		<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=naver&logoColor=white" />
+	</a>
+ 	<a href="https://www.instagram.com/teddy_electronics/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+	</a>
+ 	<a href="https://soundcloud.com/teddy-kim-818221387">
+		<img src="https://img.shields.io/badge/SOUNDCLOUD-FF3300?style=flat&logo=soundcloud&logoColor=white" />
+	</a>
+	<a href="mailto:teddy_02@naver.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<br>
 </div>
 
 <div align=center>
@@ -109,6 +132,9 @@
 	<a href="https://www.presonus.com/en/start">
 		<img src="https://img.shields.io/badge/Studio One 5-0083FF?style=flat&logo=&logoColor=white"/>
 	</a>
+	<a href="https://apps.apple.com/kr/app/garageband/id408709785">
+		<img src="https://img.shields.io/badge/GarageBand-F2653A?style=flat&logo=&logoColor=white"/>
+	</a>
 <br>
 <h3/>Others(3D Modeling, Digital Logic Circuit)<br>
 	<a href="https://www.minecraft.net/ko-kr">
@@ -116,23 +142,7 @@
 	</a>
 </div>
 <br>
-<div align=center>
-	<h2/>🎨 SNS & Portfolio 🎨
-</div>
-<div align=center>
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/@TeddyElectronics)](https://www.youtube.com/@TeddyElectronics)
-	<a href="https://blog.naver.com/teddy_02">
-		<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=naver&logoColor=white" />
-	</a>
- 	<a href="https://www.instagram.com/teddy_electronics/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-	</a>
-	<a href="mailto:teddy_02@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<br>
-</div>
 
 <br>
 <div align=center>
