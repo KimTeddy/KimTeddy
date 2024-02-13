@@ -82,19 +82,31 @@
 	<a href="https://nodered.org/" target="_blank">
 		<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white"/>
 	</a>
-	<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
+	<a href="https://yaml.org/" target="_blank">
+		<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
+	</a>
 	<br>
 	<img src="https://img.shields.io/badge/Google Assistant SDK-4285F4?style=flat&logo=googleassistant&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Google Home-4285F4?style=flat&logo=googlehome&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat&logo=googleassistant&logoColor=white"/>
 <h6/>Not Using Now
-	<img src="https://img.shields.io/badge/IFTTT-000000?style=flat&logo=ifttt&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Adafruit IO-000000?style=flat&logo=adafruit&logoColor=white"/>
+	<a href="https://ifttt.com/explore" target="_blank">
+		<img src="https://img.shields.io/badge/IFTTT-000000?style=flat&logo=ifttt&logoColor=white"/>
+	</a>
+	<a href="https://io.adafruit.com/" target="_blank">
+		<img src="https://img.shields.io/badge/Adafruit IO-000000?style=flat&logo=adafruit&logoColor=white"/>
+  	</a>
 
 <h3/>📱 Hardwares 📱<br>
-	<img src="https://img.shields.io/badge/Arm-0091BD?style=flat&logo=arm&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+	<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
+		<img src="https://img.shields.io/badge/Arm(STM32)-0091BD?style=flat&logo=arm&logoColor=white"/>
+	</a>
+	<a href="https://www.arduino.cc/" target="_blank">
+		<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
+	</a>
+	<a href="https://www.raspberrypi.com/" target="_blank">
+		<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+	</a>
 </div>
 	
 ***
