@@ -89,6 +89,10 @@
 	<img src="https://img.shields.io/badge/Google Assistant SDK-4285F4?style=flat&logo=googleassistant&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Google Home-4285F4?style=flat&logo=googlehome&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat&logo=googleassistant&logoColor=white"/>
+	<br><br>
+	<a href="https://cloud.arduino.cc/" target="_blank">
+		<img src="https://img.shields.io/badge/Arduino Cloud-00878F?style=flat&logo=arduino&logoColor=white"/>
+	</a>
 <h6/>Not Using Now
 	<a href="https://ifttt.com/explore" target="_blank">
 		<img src="https://img.shields.io/badge/IFTTT-000000?style=flat&logo=ifttt&logoColor=white"/>
