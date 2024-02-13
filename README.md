@@ -13,7 +13,7 @@
 </div>
 <div align=center>
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/@TeddyElectronics)](https://www.youtube.com/@TeddyElectronics)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/@TeddyElectronics)](https://www.youtube.com/@TeddyElectronics)
 	<a href="https://blog.naver.com/teddy_02">
 		<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=naver&logoColor=white" />
 	</a>
