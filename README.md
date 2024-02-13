@@ -143,9 +143,15 @@
 	<a href="https://www.blender.org/">
 		<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 	</a>
-<h5/>Slicing
+<h5/>Slicer
 	<a href="https://ultimaker.com/software/ultimaker-cura/">
 		<img src="https://img.shields.io/badge/Cura-196EF0?style=flat&logo=c&logoColor=white"/>
+	</a>
+	<a href="https://www.creality.com/pages/download-ender-5-plus?spm=..page_1934481.products_display_1.1">
+		<img src="https://img.shields.io/badge/Creality Slicer-00A3C6?style=flat&logo=creality&logoColor=white"/>
+	</a>
+	<a href="https://bambulab.com/en/download/studio">
+		<img src="https://img.shields.io/badge/Bambu Studio-00AE42?style=flat&logo=&logoColor=white"/>
 	</a>
 <br>
 <h3/>Others<br>
