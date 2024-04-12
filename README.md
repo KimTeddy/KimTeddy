@@ -105,6 +105,9 @@
 	<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
 		<img src="https://img.shields.io/badge/Arm(STM32)-0091BD?style=flat&logo=arm&logoColor=white"/>
 	</a>
+	<a href="" target="_blank">
+		<img src="https://img.shields.io/badge/ATmega-EC1C24?style=flat&logo=atmega&logoColor=white"/>
+	</a>
 	<a href="https://www.arduino.cc/" target="_blank">
 		<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
 	</a>
