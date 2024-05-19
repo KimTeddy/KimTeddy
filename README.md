@@ -49,13 +49,12 @@
 	<a href="https://github.com/KimTeddy/VBScript/tree/main">
 		<img src="https://img.shields.io/badge/Repository-Windows VBScript-0078D6?style=flat&logo=windows10&logoColor=white"/>
 	</a>
-	<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
 <h5/>Digital Logic Circuit
 	<a href="https://github.com/KimTeddy/DigitalSystem" target="_blank">
 		<img src="https://img.shields.io/badge/Repository-Verilog-E01F27?style=flat&logo=v&logoColor=white"/>
 	</a>
 <h5/>Others
-	<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Markdown-101010?style=flat&logo=markdown&logoColor=white"/>
 <br>
 <h3/>Library<br>
 	<a href="https://github.com/KimTeddy/OpenGL" target="_blank">
@@ -65,7 +64,9 @@
 		<img src="https://img.shields.io/badge/Repository-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 	</a>
 <br>
-<h3/>OS<br>
+<h3/>Terminal & OS<br>
+	<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+	 / 
 	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 	</a>
