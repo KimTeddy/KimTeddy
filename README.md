@@ -108,6 +108,10 @@
 	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/ATmega-EC1C24?style=flat&logo=atmega&logoColor=white"/>
 	</a>
+	<a href="https://digilent.com/reference/programmable-logic/zybo-z7/start" target="_blank">
+		<img src="https://img.shields.io/badge/FPGA-588A49?style=flat&logo=&logoColor=white"/>
+	</a>
+	<br>
 	<a href="https://www.arduino.cc/" target="_blank">
 		<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
 	</a>
@@ -142,6 +146,9 @@
 <br>
 	<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
 		<img src="https://img.shields.io/badge/Vivado-D5D66A?style=flat&logo=amd&logoColor=white"/>
+	</a>
+	<a href="https://www.xilinx.com/products/design-tools/vitis.html" target="_blank">
+		<img src="https://img.shields.io/badge/Vitis-D22D1D?style=flat&logo=amd&logoColor=white"/>
 	</a>	
 <br>
 <h3/>CAD(PCB, 3D)<br>
