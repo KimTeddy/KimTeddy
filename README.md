@@ -195,6 +195,9 @@
 	</a>
 	<a href="https://apps.apple.com/kr/app/garageband/id408709785">
 		<img src="https://img.shields.io/badge/GarageBand-F2653A?style=flat&logo=itunes&logoColor=white"/>
+	</a><br>
+	<a href="">
+		<img src="https://img.shields.io/badge/GoldWave-F2653A?style=flat&logo=goldwave&logoColor=white"/>
 	</a>
 <h5/>Video Edit
 	<a href="https://www.minecraft.net/ko-kr">
