@@ -172,11 +172,11 @@
 <br>
 <h3/>3D<br>
 <h5/>Develop
-	<a href="https://help.steampowered.com/ko/faqs/view/46C3-050A-2E52-12D6">
-		<img src="https://img.shields.io/badge/SteamVR-000000?style=flat&logo=steam&logoColor=white"/>
-	</a>
 	<a href="https://unity.com/">
 		<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+	</a>
+	<a href="https://help.steampowered.com/ko/faqs/view/46C3-050A-2E52-12D6">
+		<img src="https://img.shields.io/badge/OpenVR/XR-000000?style=flat&logo=steam&logoColor=white"/>
 	</a>
 <h5/>Modeling/Animation/Rendering
 	<a href="https://www.blender.org/">
