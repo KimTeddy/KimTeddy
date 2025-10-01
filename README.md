@@ -190,7 +190,7 @@
 		<img src="https://img.shields.io/badge/Creality Slicer-00A3C6?style=flat&logo=creality&logoColor=white"/>
 	</a>
 	<a href="https://bambulab.com/en/download/studio">
-		<img src="https://img.shields.io/badge/Bambu Studio-00AE42?style=flat&logo=&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Bambu Studio-00AE42?style=flat&logo=bambulab&logoColor=white"/>
 	</a>
 <br>
 <h3/>Others<br>
