@@ -133,7 +133,7 @@
 	<a href="https://visualstudio.microsoft.com/ko/#vs-section">
 		<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
 	</a>
-	<a href="[https://visualstudio.microsoft.com/ko/#vs-section](https://code.visualstudio.com/)">
+	<a href="https://code.visualstudio.com/">
 		<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 	</a>
 	<a href="https://www.arduino.cc/en/software">
@@ -172,7 +172,10 @@
 <br>
 <h3/>3D<br>
 <h5/>Develop
-	<a href="https://www.blender.org/">
+	<a href="https://help.steampowered.com/ko/faqs/view/46C3-050A-2E52-12D6">
+		<img src="https://img.shields.io/badge/SteamVR-000000?style=flat&logo=steam&logoColor=white"/>
+	</a>
+	<a href="https://unity.com/">
 		<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 	</a>
 <h5/>Modeling/Animation/Rendering
