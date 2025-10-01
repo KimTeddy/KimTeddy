@@ -38,6 +38,8 @@
 <h5/>Basic
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <h5/>Web
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -56,7 +58,7 @@
 <h5/>Others
 	<img src="https://img.shields.io/badge/Markdown-101010?style=flat&logo=markdown&logoColor=white"/>
 <br>
-<h3/>Library<br>
+<h3/>Graphics & Vision<br>
 	<a href="https://github.com/KimTeddy/OpenGL" target="_blank">
 		<img src="https://img.shields.io/badge/Repository-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
 	</a>
@@ -108,6 +110,9 @@
 	</a>
 	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/ATmega-EC1C24?style=flat&logo=atmega&logoColor=white"/>
+	</a>
+	<a href="" target="_blank">
+		<img src="https://img.shields.io/badge/TMS320F28388D-EC1C24?style=flat&logo=atmega&logoColor=white"/>
 	</a>
 	<a href="https://digilent.com/reference/programmable-logic/zybo-z7/start" target="_blank">
 		<img src="https://img.shields.io/badge/FPGA-588A49?style=flat&logo=&logoColor=white"/>
@@ -166,6 +171,10 @@
 	</a>
 <br>
 <h3/>3D<br>
+<h5/>Develop
+	<a href="https://www.blender.org/">
+		<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+	</a>
 <h5/>Modeling/Animation/Rendering
 	<a href="https://www.blender.org/">
 		<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
