@@ -112,6 +112,9 @@
 		<img src="https://img.shields.io/badge/ATmega-EC1C24?style=flat&logo=atmega&logoColor=white"/>
 	</a>
 	<a href="" target="_blank">
+		<img src="https://img.shields.io/badge/ESP8266/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
+	</a>
+	<a href="" target="_blank">
 		<img src="https://img.shields.io/badge/TMS320F28388D-EC1C24?style=flat&logo=atmega&logoColor=white"/>
 	</a>
 	<a href="https://digilent.com/reference/programmable-logic/zybo-z7/start" target="_blank">
@@ -168,6 +171,11 @@
 <h3/>VirtualMachine<br>
 	<a href="https://www.virtualbox.org/">
 		<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
+	</a>
+<br>
+<h3/>Package & Env Manager<br>
+	<a href="https://www.virtualbox.org/">
+		<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
 	</a>
 <br>
 <h3/>3D<br>
